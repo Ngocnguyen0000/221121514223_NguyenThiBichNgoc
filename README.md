@@ -3,7 +3,7 @@
 
 ## Giới Thiệu
 
-Đây là repository chứa mã nguồn và tài liệu liên quan đến [mục tiêu hoặc dự án của bạn]. Hãy cập nhật phần này để mô tả chi tiết hơn về dự án.
+
 
 ## Cài Đặt
 
